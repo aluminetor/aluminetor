@@ -14,7 +14,6 @@
 
 
 - 🌱 Estoy aprendiendo **Python** y fortaleciendo mi lógica de programación con proyectos propios.
-- 💼 Busco una práctica profesional donde pueda aportar y seguir creciendo.
 - 💬 Pregúntame sobre Python, Git o desarrollo web con Laravel.
 
 ## 🛠 Tecnologías
