@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aluminetor">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendiendo+Python+d%C3%ADa+a+d%C3%ADa;Construyendo+proyectos+reales;Buscando+mi+primera+pr%C3%A1ctica+%F0%9F%9A%80&center=true&width=440&height=45" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendiendo+Python+d%C3%ADa+a+d%C3%ADa;Construyendo+proyectos+reales&center=true&width=440&height=45" alt="Typing SVG" />
   </a>
 </p>
 
