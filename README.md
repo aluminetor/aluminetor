@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Pablo 👋</h1>
 <h3 align="center">🌌 A long time ago, in a repo far, far away...</h3>
 
 <p align="center">
@@ -20,14 +19,7 @@
 
 ---
 
-### 🛡️ The Force (My Stack)
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFE81F?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=probot&logoColor=FFE81F" alt="AI Agents">
-</p>
-
-### 🤖 My Droid Fleet
+###  My Droid Fleet
 
 | Droid | Mission |
 |-------|---------|
@@ -35,7 +27,7 @@
 | **C-3PO** | Agents that speak fluent APIs and tools |
 | **Jedi Council** | Multi-agent teams working in harmony |
 
-### ⚔️ Today's Mission
+### Today's Mission
 
 ```python
 class Padawan:
