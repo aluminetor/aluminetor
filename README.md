@@ -17,16 +17,6 @@
    repetitive Empire of boring workflows...
 ```
 
----
-
-###  My Droid Fleet
-
-| Droid | Mission |
-|-------|---------|
-| **R2-D2** | Python scripts that automate the boring stuff |
-| **C-3PO** | Agents that speak fluent APIs and tools |
-| **Jedi Council** | Multi-agent teams working in harmony |
-
 ### Today's Mission
 
 ```python
