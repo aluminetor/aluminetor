@@ -36,11 +36,11 @@ class Padawan:
     def mission(self):
         return "Automate the boring. Build the autonomous."
 
-print(Padawan().mission())  # May the agents be with you 🌠
+print(Padawan().mission())  # May the agents be with you 
 ```
 
 ---
 
 <p align="center">
-  <i>"Do. Or do not. There is no try." — Yoda (and my agents)</i> ✨
+  <i>"Do. Or do not. There is no try." — Yoda (and my agents)</i> 
 </p>
