@@ -1,4 +1,4 @@
-<h3 align="center">🌌 A long time ago, in a repo far, far away...</h3>
+<h3 align="center"> A long time ago, in a repo far, far away...</h3>
 
 <p align="center">
   <a href="https://github.com/aluminetor">
