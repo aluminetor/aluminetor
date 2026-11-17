@@ -1,5 +1,3 @@
-# Hi, I'm Juan Pablo 
-
 I'm a developer from Colombia interested in **Python, backend development, and automation**.
 
 I enjoy learning how things work, solving problems, and building tools that make everyday tasks easier.
