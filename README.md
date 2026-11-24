@@ -4,10 +4,6 @@ I enjoy learning how things work, solving problems, and building tools that make
 
 Right now, I'm focusing on improving my programming skills through hands-on projects and exploring areas like APIs, network automation, and AI agents.
 
-###  Technologies I've worked with
-
-Python · FastAPI · SQL · Git · Linux · JavaScript · HTML · CSS
-
 ###  Some of my projects
 
 - **[AegisTrace](https://github.com/aluminetor/AegisTrace)** — A Python API observability tool that detects anomalies and explores AI-assisted incident diagnostics.
